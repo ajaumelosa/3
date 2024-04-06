@@ -1,0 +1,254 @@
+---
+title: "Dialectal Differences in Spanish Voiced Obstruent Allophony: Costa Rican versus Iberian Spanish"
+subtitle: "Patricio Carrasco, José I. Hualde, and Miquel Simonet"
+author: "Alejandro Jaume-Losa"
+institute: "Spanish Phonology"
+date: "4/8/2024"
+output: 
+  xaringan::moon_reader:
+    css: [default, hygge, rutgers, rutgers-fonts]
+---
+
+# Introduction
+
+* Spanish voiced obstruents /b d g/ are traditionally described as having each two allophones: **stop** and **approximant**.
+
+* The same allophonic distribution has been found in Peninsular and Latin American Spanish.
+
+* However, certain Central American and Highland Colombian varieties show a preference for stop realizations in all context (except for intervocalic position).
+
+* Although it is possible to make a binary distinction between tokens of /b d g/ with and without full occlusion, among the latter, one finds a considerable amunt of variation in the degree of constriction:
+
+  + We have a continuum of realizations of these phonemes regarding the degree of constriction.
+
+* Factors found to influence the degree of constriction: **height of the preceding vowel**, **preceding segmental context**, and **lexical stress**.
+
+---
+
+# Present study
+
+* Most previous acoustic studies of Spanish spirantization focus on Peninsular Spanish.
+
+<br>
+
+* There are no previous acoustic studies of spirantization in Costa Rican Spanish or in other Central American or Highland Colombian Spanish.
+
+<br>
+
+* **GOAL**: to determine wheter Costa Rican Spanish significantly differs from other dialects in its allophony of /b d g/ when a continuous acoustic measure of spirantization is adopted.
+
+<br>
+
+---
+
+# Methods
+
+*Participants*:
+  
+  * 10 speakers of Costa Rican Spanish (5 men and 5 women).
+  
+    + From San José metropolitan area.
+    
+    + Ages: 26 - 47.
+    
+    + All speakers had postsecondary education.
+  
+  * 3 speakers of Madrid Spanish (2 men and 1 women).
+  
+    + **Question**: why did the authors use Madrid Spanish as a point of comparison?
+    
+    + **Question**: how do the authors justify the small sample?
+    
+    + Graduate students at UIUC.
+    
+    + They had been living in the US for about 2 or 3 years.
+  
+---
+
+# Methods
+
+*Data collection tasks*
+
+  + **First task**: sociolinguistic interview (to elicit spontaneous speech).
+    
+  + **Second task**: picture-naming task (adaptation):
+
+    + Participants were shown a picture with its corresponding word and were asked to formulate three complete sentences. The word had to be at the beginning of the sentence.
+     
+    + **Question**: why did the authors use this task?
+      
+  + **Third task**: reading of a pseudorandomized list of meaningful sentences three separate times. Same words from task 2.
+    
+    + **Question**: why did the authors use this task?
+      
+  + **Fourth task**: reading of a pseudorandomized list of words three separate times. Same words from task 2 and 3.
+    
+    + **Question**: why did the authors use this task?
+      
+---
+
+# Methods
+
+*Materials*
+
+  * Target words were balanced for:
+  
+    + Place of articulation of the target consonant (/b d g/).
+    
+    + Position in word (word-initial vs. word-medial).
+    
+    + Stress position (at the onset of stress vs. unstressed syllable).
+    
+    + Preceding segment (vowel /a/, glide /j/, liquids /r/, /l/, fricative /s/).
+    
+  * Data from task 1 were discarded from further analyses because it did not yield balanced data sets.
+  
+  * Only data from tasks 2, 3, and 4 were used for the analysis.
+  
+  * Tokens per speaker: 540. Total of tokens: 7020.
+
+---
+
+# Methods
+
+*Acoustic and statistical analyses*
+
+  * For each target segment, two marks were placed:
+  
+    + One at the point of minimum intensity within the consonant /b/, /d/, or /g/.
+    + Another one at the point of maximmum intensity during rhe following vowel.
+    
+    + The mean was subtracted.
+
+  * Measure: **intensity ratio** (dividing values in dB at the two points marked)
+  
+  * A ratio closer to "1" indicates a more open vowel-like consonant production; and a ratio closer to "0" indicates a more stope-like realization.
+  
+  * Ratio values were arcsine-transformed and the effects of several fixed and random factors were tested with a series of linear mix-effects models further submitted to ANOVA summaries.
+
+---
+
+![Figure 1](images/fig_1.png)
+---
+
+![Figure 7](images/fig_7.png)
+
+---
+
+# Results
+
+*Madrid Spanish*
+
+  * The model yield significant effects of **place of articulation**, **stress**, **preceding segment**, and **task**.
+  
+  * Place of articulation significantly interacted with preceding segment.
+  
+    + **/b/**: /a-/ > /j-/ > /r-l-/ > /s-/.
+    
+    + **/d/**: /a-/ > /j-/ > /r-/ > /l-s-/.
+    
+    + **/g/**: /a-/ > /j-r-l-/ > /s-/.
+  
+  * /b/ is significantly more lenited than /g/, while /d/ did not differ from /b/.
+  
+  * Unstressed consonants are significantly more lenited than stressed ones.
+  
+  * Consonants in tasks 2 and 3 did not differ from each other, while consonants in task 4 were significantly more constricted than consonants in task 2.
+
+---
+![Table 1](images/table_1.png)
+---
+
+<img src="images/fig_8.png" width="600" />
+
+---
+
+# Results
+
+*Madrid Spanish - Summary*:
+
+  * There is no statistical difference between wor-initial (but phrase-medial) tokens of /b d g/ and vowel-medial tokens.
+  
+  * The degree of constriction of the target consonants depends on that of the preceding segment; the most open sounds are found after /a/, and the most constricted ones after /s/.
+  
+  * The intensity ratio is greater in stressed than in unstressed syllables.
+  
+  * Speakers produced more constricted consonants when reading words in isolation than when performing other tasks where words were placed in a meaningful context.
+  
+---
+
+# Results
+
+*Costa Rican Spanish*
+
+  * The model yield significant effects of **place of articulation**, **stress**, **preceding segment**, **task**, and **word position**.
+  
+  * Place of articulation significantly interacted with preceding segment.
+  
+    + **/b/**: /a-/ > /j-r-l-/ > /s-/.
+    
+    + **/d/**: /a-/ > /l-r-j-/ > /s-/.
+    
+    + **/g/**: /a-/ > /r-l-/ > /j-s-/.
+  
+  * /b/ is significantly more lenited than /d and /g/.
+  
+  * Unstressed consonants are more lenited than stressed ones.
+  
+  * Word-medial consonants were more lenited than word-initial ones.
+  
+  * Consonants in task 3 triggered a slight but significant weakening in constriction degree, while task 4 triggered a significant fortition.
+  
+---
+
+![Table 2](images/table_2.png)
+---
+
+<img src="images/fig_9.png" width="600" />
+
+---
+
+# Results
+
+*Comparing the Two Dialects*
+
+  * The sizes of the differences between /b/ and /d/ tokens preceded by /a/, and /b/ and /d/ tokens preceded by other segments is much larger in Costa Rican Spanish.
+  
+  * The magnitude of the difference between Costa Rican /b/ and /d/ tokens preceded by /a/ and all other tokens of these consonants is much greater than the difference between /g/ tokens preceded by /a/ and all other /g/ tokens in this dialect.
+  
+  * That the processes that trigger the differences in consonantal constriction as a function of the preceding segment are of a different nature in the two dialects.
+  
+      + The data are consistent with an interpretation according to which constriction of /b d g/ in the data from Madrid are affected by phonetic,
+gradient processes while constriction of /b/ and /d/ (but not /g/) in Costa Rican Spanish are affected, in addition, by a phonologization of one of these gradient effects.
+
+---
+
+<img src="images/madrid.png" width="600" />
+  
+---
+
+<img src="images/costa_rica.png" width="600" />
+
+---
+  
+# Discussion and Conclusion
+
+* In both dialects there is an effect of stress: tokens at the onset of a stressed syllable are more constricted than after the stress.
+
+* In Costa Rican Spanish, target consonants were more lenited in word-medial than in word initial position. For Peninsular Spanish, no effect of word position was found.
+
+* Postconsonantal position /g/ is weaker than /b/ and /d/ in Costa Rican Spanish.
+
+* The way target consonants are affected by preceding segments is different:
+
+  + In Peninsular Spanish: /s/ and /l/.
+  
+  + In Costa Rican Spanish: /s/.
+  
+* In Costa Rica, /b/ and /d/ have quite different targets after vowels and in all other contexts.
+  
+  
+  
+  
+  
+  
